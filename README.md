@@ -1,4 +1,4 @@
-# notes.data-engineering
+# Data Engineering Notes
 Here are my notes when I was learning data engineering.
 
 References: <br />
